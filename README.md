@@ -2,7 +2,7 @@
 # [![Ekoparty 2020 header](https://github.com/ch33r10/Stalkerware/blob/master/img/IMG_1298.JPG)](https://ch33r10.com)
 <p align='center'>
 <a href="https://twitter.com/Ch33r10"><img height="30" src="https://github.com/ch33r10/Stalkerware/blob/master/img/twitter%20blue%20logo.png"></a>&nbsp;&nbsp;
- <a href="https://github.com/ch33r10/Stalkerware/blob/master/img/linkedin%20logo.png"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/xena-o-54491512/"><img height="30" src="https://github.com/ch33r10/Stalkerware/blob/master/img/linkedin%20logo.png"></a>&nbsp;&nbsp;
 </p>
 <h3 align="center">EVERY BREATH YOU TAKE: A CTI REVIEW OF STALKERWARE🕵️</h3>
 <h5 align="center">🎉<a href="https://open.spotify.com/playlist/60WklelM7toEPnU3cApFsZ?si=PokDCcc6R4ygv2tGRrRKqA">EKOPARTY 2020 Spotify Playlist</a>🎉</h5>
