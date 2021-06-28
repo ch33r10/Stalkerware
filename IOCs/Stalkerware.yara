@@ -211,7 +211,7 @@ rule AndroidMonitor
 		version = "0.1"
 	strings:
 		$ = "AO; aoTuV b4b [20051117] (based on Xiph.Org's libVorbis)"
-		$ = "com.android.core.monitor"
+		$ = "com.android.core.monitor" wide
 		$ = "Monitor enabled"
 		$ = "help_status_monitor_enabled"
 	condition:
